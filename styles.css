@@ -1,0 +1,150 @@
+.home{
+    background-image: url("cosy.webp");
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 650px;
+
+}
+.white{
+    background-color: white;
+}
+.blue{
+    background-color: blue;
+    }
+nav ul{
+padding: 10px;
+display: flex;
+list-style: none;
+color: antiquewhite;
+}
+ nav a{
+text-decoration: none;
+padding: 10px;
+color:rgb(143, 139, 133);
+font-size: larger;
+font-weight: bolder;
+}
+.H{
+    color: orange;
+}
+.icon{
+margin-left: 10%;
+margin-top: 10px;
+}
+.ion{
+    padding-right: 20px;
+    height: 15%;
+}
+button{
+    padding-right: 100px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 20%; 
+}
+.p{
+    margin-top: 15%;
+  margin-left:  20px;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size:large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.but{
+    border-radius: 20px;
+   background-color:rgb(236, 142, 18);
+   font-size: xx-large;
+   font-weight: bolder;
+   margin-bottom: 30%;
+   padding: 10px;
+}
+h1{
+    margin-top: 5%;
+}
+.white{
+    display: flex;
+     margin-top: 5%;
+     gap: 10px;
+    
+     }
+     .im{
+     width: 80%;
+     height: 300px;   
+}
+H3{
+color: brown;
+} 
+.more{
+    border: none;
+    border-radius: 60px;
+    background-color: rgb(201, 109, 109);
+    font-size: larger;
+    padding: 10px;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.blue{
+    background-color: rgb(107, 76, 107);
+}
+.pop{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    margin-bottom: 10%;
+    margin-left: 25%;
+padding-top: 10%;
+}
+.pics{
+    display: flex;
+}   
+.img{
+    width: 80%;
+    height: 300px;
+} 
+.span{
+    display: flex;
+}
+.sp{
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    padding-left: 80px;
+}
+.spa{
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    margin-left: 20%;
+}
+.expo{
+    border: none;
+    border-radius: 40px;
+    margin-left: 40%;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    background-color: rgb(201, 109, 109);
+    padding: 10px;
+}
+.classic{
+    background-color: #ffd8a8;
+    border-bottom: 1px solid #ff8787;
+}
+.modern{
+    background-color: #eca855;
+    border-bottom: 1px solid #ff8787;
+
+}
+.sca{
+    background-color: #f1ad5a;
+    border-bottom: 1px solid #e97c7c;
+
+}
